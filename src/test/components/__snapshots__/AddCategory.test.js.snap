@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test add category component show correctly 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    className="Input-search"
+    onChange={[Function]}
+    placeholder="Busca aquí tu gif en react app..."
+    type="text"
+    value=""
+  />
+</form>
+`;

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Gif Item Show correctly 1`] = `
+<Fragment>
+  <img
+    alt="Holamundo"
+    src="http://localhost"
+  />
+</Fragment>
+`;
